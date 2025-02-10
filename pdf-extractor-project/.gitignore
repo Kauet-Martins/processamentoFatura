@@ -1,7 +1,7 @@
 
 .env
 *.xlsx
-pdfs/
+anexo_faturas_celesc
 data/
 __pycache__/
 .vscode/
